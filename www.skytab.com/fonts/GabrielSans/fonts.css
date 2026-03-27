@@ -1,0 +1,42 @@
+@font-face {
+  font-family: "Gabriel Sans";
+  src: url("GabrielSansBlack.woff");
+  font-style: normal;
+  font-weight: 800;
+  font-display: swap;
+}
+@font-face {
+  font-family: "Gabriel Sans";
+  src: url("GabrielSansBlack.woff2");
+  font-style: normal;
+  font-weight: 800;
+  font-display: swap;
+}
+@font-face {
+  font-family: "Gabriel Sans";
+  src: url("GabrielSansBold.woff");
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+}
+@font-face {
+  font-family: "Gabriel Sans";
+  src: url("GabrielSansBold.woff2");
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+}
+@font-face {
+  font-family: "Gabriel Sans";
+  src: url("GabrielSansRegular.woff");
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+}
+@font-face {
+  font-family: "Gabriel Sans";
+  src: url("GabrielSansRegular.woff2");
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+}
