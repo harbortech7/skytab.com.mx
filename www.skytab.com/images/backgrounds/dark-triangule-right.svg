@@ -1,0 +1,16 @@
+<svg width="1280" height="1208" viewBox="0 0 1280 1208" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1280" height="1208" fill="black" />
+  <rect opacity="0.4" width="1280" height="2011" fill="url(#paintLinearDarkTrianguleRight1)" />
+  <path opacity="0.1" d="M0 1208L1321 1208L1321 168L338.597 348.759C233.06 368.033 149.51 399.698 90.1459 442.378C30.7815 486.434 -1.35718e-05 541.503 -7.79458e-06 607.587L-4.54487e-06 644.759L0 1208Z" fill="url(#paintLinearDarkTrianguleRight2)" />
+  <defs>
+    <linearGradient id="paintLinearDarkTrianguleRight1" x1="804" y1="1884.94" x2="62.6554" y2="702.786" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#136EF6" />
+      <stop offset="1" stop-color="#090304" />
+    </linearGradient>
+    <linearGradient id="paintLinearDarkTrianguleRight2" x1="998.811" y1="213.153" x2="707.047" y2="583.077" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#136EF6" />
+      <stop offset="0.625" stop-color="#71A8FA" />
+      <stop offset="1" stop-color="#090304" />
+    </linearGradient>
+  </defs>
+</svg>
