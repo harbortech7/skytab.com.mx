@@ -1,0 +1,15 @@
+{
+  "name": "skytab-clone",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "Scraping and translating skytab.com",
+  "main": "scraper.js",
+  "scripts": {
+    "scrape": "node scraper.js",
+    "translate": "node translate.js"
+  },
+  "dependencies": {
+    "translate": "^3.0.1",
+    "website-scraper": "^5.3.1"
+  }
+}
